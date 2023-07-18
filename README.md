@@ -1,5 +1,7 @@
 # Curve Fitting Toolbox
 
+Homework for Numerical Analysis
+
 ## I、总体介绍
 
 ​	欢迎使用本曲线拟合软件！本软件目标为：对于给定的样本采样点，通过不同的算法来拟合函数曲线。
